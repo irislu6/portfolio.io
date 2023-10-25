@@ -23,7 +23,7 @@ date: 2023-08-20
 ### Company intro
 Viatris is a global pharmaceutical company that was formed through a merger between Mylan N.V. and Upjohn, a division of Pfizer Inc. The company is headquartered in Canonsburg, Pennsylvania, in the United States, and it operates in more than 165 countries worldwide. Viatris is a major player in the pharmaceutical industry, with a diverse portfolio that includes generic medications, biosimilars, and certain brand-name drugs.
 
-![center](portfolio.io/image/MES_photo.jpg)
+![center](/image/Viatris-ITintern.JPG)
 ## My Internship Experience
 
 
