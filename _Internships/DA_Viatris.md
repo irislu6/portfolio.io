@@ -23,7 +23,11 @@ date: 2023-08-20
 ### Company intro
 Viatris is a global pharmaceutical company that was formed through a merger between Mylan N.V. and Upjohn, a division of Pfizer Inc. The company is headquartered in Canonsburg, Pennsylvania, in the United States, and it operates in more than 165 countries worldwide. Viatris is a major player in the pharmaceutical industry, with a diverse portfolio that includes generic medications, biosimilars, and certain brand-name drugs.
 
-![IT intern pcs](https://irislu6.github.io/portfolio.io/image/Viatris-ITintern.JPG)
+<figure class="align-center">
+  <img src="https://irislu6.github.io/portfolio.io/image/Viatris-ITintern.JPG" alt="">
+  <figcaption> I spent one week at the headquarter meeting all the IT interns </figcaption>
+</figure> 
+
 ## My Internship Experience
 
 
@@ -51,6 +55,7 @@ I worked with the other intern on my team, using SQL queries trying to create a 
 The first project I took on was to create a user requirement documents for validation work related to Data Historian. I drafted a project scope based on clients, which was the Quality Testing team, and translated their need into accomplishable technical scope.
 
 ![viatris1](https://irislu6.github.io/portfolio.io/image/Viatris-building1.jpg)
+
 
 ## Takeaway
 

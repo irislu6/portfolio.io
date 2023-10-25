@@ -7,7 +7,7 @@ title: About me
 ---
 <figure style="width: 300px" class="align-right">
   <img src="https://irislu6.github.io/portfolio.io/image/About-phto.jpg" alt="">
-  <figcaption>Profile pic</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 My name is Xinhui Lu,  I am a motivated and detail-oriented professional with a passion for data analysis and technology. 
