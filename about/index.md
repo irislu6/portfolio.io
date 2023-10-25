@@ -5,7 +5,7 @@ title: About me
 ---
 
 ---
-![image 1](/image/About-phto.jpg)
+![Profile image](https://irislu6.github.io/portfolio.io/image/About-phto.jpg){: .align-right}
 
 My name is Xinhui Lu,  I am a motivated and detail-oriented professional with a passion for data analysis and technology. 
 		
