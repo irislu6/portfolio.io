@@ -30,7 +30,7 @@ avatar:  "/image/profile_1.jpeg"
 search: true
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins: [jekyll-include-cache, jekyll-sitemap]
 layout: single
