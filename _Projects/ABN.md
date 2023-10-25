@@ -40,10 +40,8 @@ I've divided the project into following stages:
 1: Gathering data and requirement<br>
 At the beginning of the project, ABN only required me to work with their website data, and they had set up Google Analytics, so I predominately worked with Google Analytics to gather all the data I need to accomplish the project. 
 Based on the meetings I had with ABN, I drafted a list of metrics I would include in the final deliverables:
-<figure>
-	<img src="/image/ABN-requirement.png">
-	<figcaption>I drafted a list of requirement for my clients</figcaption>
-</figure>
+![image-center]({{ site.url }}{{ site.baseurl }}/image/ABN-requirement.png){: .align-center}
+
 
 2:Understand Data and business requirements<br>
 After finishing the requirement, I started creating a dashboard, through connecting the data from Google Analytics to Google Data Studio. 
