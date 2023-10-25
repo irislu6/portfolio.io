@@ -1,0 +1,11 @@
+# /_data/authors.yml
+
+Xinhui Iris Lu:
+  name        : "Xinhui Iris Lu"
+  bio         : "MS in Management Information Systems, NYU"
+  avatar      : "/image/profile_1.jpeg "
+  links:
+    - label: "Email"
+      icon: "/image/aboutPhoto.JPG"
+      url: ""
+

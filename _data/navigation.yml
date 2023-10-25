@@ -1,0 +1,25 @@
+
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - title: "Home"
+     url:  /
+   - title: "About"
+     url:  /about/
+   - title: "Projects"
+     url: /collection-archive/
+   - title: "Resume"
+     url: /documents/Lu_Xinhui_resume0910.pdf
+
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+  # sidebar navigation list sample
+#my_sidebar:
+  #- title: "Archives"
+    #children:
+      #- title: "Category"
+       #url: /categories/
+      #- title: "Tag"
+       #url: /tags/
