@@ -41,6 +41,10 @@ I've divided the project into following stages:
 At the beginning of the project, ABN only required me to work with their website data, and they had set up Google Analytics, so I predominately worked with Google Analytics to gather all the data I need to accomplish the project. 
 Based on the meetings I had with ABN, I drafted a list of metrics I would include in the final deliverables:
 ![image-center]({{ site.url }}{{ site.baseurl }}/image/ABN-requirement.png){: .align-center}
+<figure style="width: 150px" class="align-left">
+  <img src="portfolio.io/image/ABN-requirement.png" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure> 
 
 
 2:Understand Data and business requirements<br>
