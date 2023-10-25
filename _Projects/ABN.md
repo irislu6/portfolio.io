@@ -40,7 +40,7 @@ I've divided the project into following stages:
 1: Gathering data and requirement<br>
 At the beginning of the project, ABN only required me to work with their website data, and they had set up Google Analytics, so I predominately worked with Google Analytics to gather all the data I need to accomplish the project. 
 Based on the meetings I had with ABN, I drafted a list of metrics I would include in the final deliverables:
-![This is the metrics I drafted at the beginning of my project](portfolio.io/blob/gh-pages/image/ABN-requirement.png)
+![This is the metrics I drafted at the beginning of my project!!](portfolio.io/image/ABN-requirement.png)
 
 
 2:Understand Data and business requirements<br>
