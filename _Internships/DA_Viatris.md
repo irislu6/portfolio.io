@@ -32,7 +32,7 @@ I spent the summer of 2023 working as an IT intern at the manufacturing R&D depa
 ### Automation 
 
 One of the largest project I took on was to program a product recipe in MES (Manufacturing execution system). Based on the documents from R&D team, my project was able to contribute to the automation of manufacturing and laboratory processes, including the development and testing of software scripts or programs to improve efficiency and accuracy. Over the two weeks working this project, I learned how to work with MES system, get more familiar with the GMP regulation, particularly in pharmaceutical manufacturing spaces. And was able to assist the automation engineer was system testings. 
-![MES picfff](https://irislu6.github.io/portfolio.io/image/MES_photo.jp)
+![MES picfff](https://irislu6.github.io/portfolio.io/image/MES_photo.jpg)
 
 ### Data Management
 
